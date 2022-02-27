@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0%;
+    text-transform: capitalize;
+}
+.showcase{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: rgb(235, 232, 232);
+    background:linear-gradient(rgb(88, 157, 180),red);
+}
+h1{
+    background-color: rgba(0, 0, 0, 0.568);
+    padding: 20px 100px;
+}
